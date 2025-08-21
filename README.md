@@ -23,12 +23,9 @@ Una aplicación básica de lista de tareas construida con React. Permite agregar
   - Escribir el nombre del proyecto, nombres de los miembros y descripcion
 - **Avances**:
   - ✅ Proyecto decidido y establecido - Responsable: Todo el grupo - Commit: Se ha iniciado el proyecto, con su nombre, descripcion y nombre de miembros del proyecto.
+  - ✅ Primer objetivo (relacionado al codigo) creado - Responsable: Todo el grupo - Commit: Se ha decidido cual sera la primera tarea que haremos, se modifica el README.md
 - **En progreso**:
-  - 🔄 [Tarea en progreso] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
-- **Pendiente**:
-  - ⏳ [Tarea pendiente] - Responsable: [Nombre]
-- **Notas**:
-  - [Descripción de problemas, soluciones o decisiones tomadas]
+  - 🔄 Inicio de la elaboracion del codigo del proyecto - Responsable: Todo el grupo - Commit: Base del proyecto hecha, empezando el codigo
 
 ### Clase 2
 - **Fecha**: [DD/MM/YYYY]
