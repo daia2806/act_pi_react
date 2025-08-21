@@ -1,7 +1,13 @@
 # Nombre del Proyecto
+Lista de tareas REACT
+
+## Integrantes
+Rodrigo Alberto Velez Diaz
+Ivan De Jesus Acosta Martinez
+Daiana Gomez Valenzuela
 
 ## Descripción
-Descripción del proyecto y su propósito.
+Una aplicación básica de lista de tareas construida con React. Permite agregar, marcar como completadas y eliminar tareas de forma interactiva. Ideal como proyecto inicial para aprender los fundamentos de React como componentes, props, estado y manejo de eventos.
 
 ## Características
 - Lista de funcionalidades principales
@@ -11,13 +17,12 @@ Descripción del proyecto y su propósito.
 **Nota**: Todos los avances documentados en esta sección deben coincidir con los commits realizados en el repositorio, incluyendo el autor correspondiente de cada commit. Cada tarea completada, en progreso o pendiente debe estar respaldada por un commit asociado en el repositorio, con mensajes descriptivos que reflejen la tarea realizada y el nombre del autor.
 
 ### Clase 1
-- **Fecha**: [DD/MM/YYYY]
+- **Fecha**: [20/08/2025]
 - **Objetivos**:
-  - [Objetivo 1]
-  - [Objetivo 2]
+  - Establecer que proyecto haremos
+  - Escribir el nombre del proyecto, nombres de los miembros y descripcion
 - **Avances**:
-  - ✅ [Tarea completada 1] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
-  - ✅ [Tarea completada 2] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
+  - ✅ Proyecto decidido y establecido - Responsable: Todo el grupo - Commit: Se ha iniciado el proyecto, con su nombre, descripcion y nombre de miembros del proyecto.
 - **En progreso**:
   - 🔄 [Tarea en progreso] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
 - **Pendiente**:
